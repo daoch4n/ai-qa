@@ -34,4 +34,4 @@ Differences:
 - Uses Structured Output mode of Gemini API <br> for better parsing of AI output
 - Auto-commits AI-actionable JSON report <br> as cute white robot to your repo `/reviews/` folder <br> for futher agentic processing
 - Uses JSON file in question during PR update run <br> to load previous comments from last run <br> for better context during subsequent runs
-- `DISCLAIMER: this might or might not violate something and hurt your account or cause AI takeover of humanity` <br> (Optional) Rotates exhausted API keys sequentially <br> through `GEMINI_ALT_1` >> `GEMINI_ALT_4` <br> (if they happen to be set in repo secrets) <br> in case your PRs are really big and active
+- `DISCLAIMER:`<br>`setting them to same account might or might not hurt your account` <br> `or violate something or cause future AI takeover of humanity 👾` <br> (Optional) Rotates exhausted API keys sequentially <br> through `GEMINI_ALT_1` >> `GEMINI_ALT_4` <br> (if they happen to be set in repo secrets) <br> in case your PRs are really big and active
