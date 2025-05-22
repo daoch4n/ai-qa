@@ -1,5 +1,5 @@
 Don't want to pay Copilot to review your code online? No problem! Because you've got:
-# 🪭 Zen AI QA ✨
+# 🪭 Zen AI QA Gemini Action ✨
 <img src="https://github.com/user-attachments/assets/7e1493ad-31da-448d-8050-e2072c916500" alt="cute transparent robot" width="333">
 
 ## Reviews your Pull Requests for 🆓 using latest Gemini Flash 2.5 5/20 Preview with previous feedback reevaluation on update ✨
